@@ -1,0 +1,29 @@
+.form{
+        width: 80%;
+        height: 300px;
+        background-color: #CCC;
+        margin-left: 5%;
+        display: inline-block;
+    }
+    .wel{
+        padding: 2rem;
+        background-color: gray;
+        color: #FFF;
+        text-align: center;
+    }
+    .input{
+        width: 80%;
+        height: 40px;
+        margin-left: 3%;
+        border: none;
+        border-radius: 5px;
+    }
+    .btn{
+        border: none;
+        border-radius: 5px;
+        padding: 5px 5px;
+        color: #FFF;
+        background-color: blue;
+        margin-left: 40%;
+        margin-top: 2%;
+    }
